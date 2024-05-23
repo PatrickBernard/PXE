@@ -213,7 +213,7 @@ Sélection l'emplacement physique selon le type de boot
 
 ```bash
   subnet 192.168.1.0 netmask 255.255.255.0 {
-      range 192.168.1.100 192.168.112.254;
+      range 192.168.1.100 192.168.1.250;
       option domain-search "local";
       option routers 192.168.1.1;
 
