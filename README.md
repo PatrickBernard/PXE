@@ -1,6 +1,5 @@
 # PXE
 
-- Documentation pour monter une serveur PXE complet
-- script de mise a jour des initrd
-
-todo : en faire une recette ansible
+- Documentation pour monter un serveur PXE complet
+- script de mise à jour des initrds
+- todo : en faire une recette ansible
