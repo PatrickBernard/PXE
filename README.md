@@ -5,4 +5,7 @@
 - todo :
   - en faire une recette ansible
   - nettoyer le code
-  - voir repartir de zéro avec d'autre server PXE <https://www.it-connect.fr/tuto-iventoy-serveur-pxe-windows-linux-vmware-esxi/>
+- Refaire avec un autre système :
+  - <https://www.it-connect.fr/tuto-iventoy-serveur-pxe-windows-linux-vmware-esxi/>
+- tester :
+  - <https://ipxe.org/start>
