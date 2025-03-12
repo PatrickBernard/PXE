@@ -457,7 +457,7 @@ Ajouter dans un serveur web votre preseed : /var/www/preseed-buster.conf
 
 Lors de l'utilisation du PXE, on peut rencontrer plusieurs erreurs.
 
-```bash
+```text
 - Aucun module du noyau n'a été trouvé.
 - La version du noyau utilisée par le programme d'installation est sans doute différente de celle présente sur l'archive Debian.
 ```
